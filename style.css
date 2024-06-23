@@ -1,0 +1,12 @@
+.element{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: lightblue;
+}
+.boxShadow{
+    box-shadow: 0px 0px 5px 5px lightslategrey;
+}
+body{
+    background-color: lightseagreen;
+}
